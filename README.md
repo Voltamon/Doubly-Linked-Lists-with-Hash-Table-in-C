@@ -5,7 +5,8 @@
 <body>
   <h1>Doubly Linked Lists with Hash Table</h1>
     <p>This is just an implementation of dounly linked lists and hash tables. I have used a chaining mechanism to resolve collisions in my hash function. 
-    [DISCLAIMER] I am still learning C. Code can be improved. This is just how I chose to implement it.</p>
+    
+  [DISCLAIMER] I am still learning C. Code can be improved. This is just how I chose to implement it.</p>
 
   <h2>Getting Started</h2>
     <p>To set up the project, follow these steps:</p>
