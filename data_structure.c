@@ -24,6 +24,7 @@ typedef struct person {
 
 person* hash_table[TABLE_SIZE];
 
+// Hash function can be different and made better
 unsigned int hash(char* name, int age) {
     int length = strnlen(name, MAX_NAME);
     unsigned int hash_value = 0;
